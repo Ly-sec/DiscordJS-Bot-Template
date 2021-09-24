@@ -4,20 +4,20 @@ It's a pretty simple bot (for now).
 
 It features:
 
-    - event handler
+    event handler
     
-    - command handler
+    command handler
     
 
 Requires:
 
-    - discord.js
+    discord.js
     
-    - dotenv
+    dotenv
     
-    - chalk
+    chalk
     
-    - glob
+    glob
     
 
 To get started, clone / download this project and open cmd then navigate to this folder and use **npm install**
