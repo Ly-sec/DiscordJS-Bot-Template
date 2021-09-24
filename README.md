@@ -3,6 +3,7 @@
 It's a pretty simple bot (for now).
 
 It features:
+
     - event handler
     
     - command handler
