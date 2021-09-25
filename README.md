@@ -12,7 +12,6 @@ It features:
 Requires:
 
     discord.js
-    
     dotenv
     
     chalk
