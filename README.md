@@ -1,4 +1,4 @@
-# DiscordJS (13) Bot Template
+# DiscordJS (v13) Bot Template
  
 It's a pretty simple bot (for now).
 
